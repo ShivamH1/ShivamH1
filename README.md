@@ -19,7 +19,6 @@
 </div>
 
 <br/>
----
 
 ## 👋 about me
 
@@ -29,7 +28,6 @@ Currently architecting an **AI agent network** for open multi-agent collaboratio
 
 > *cannot stop turning every problem into an agentic loop*
 
----
 
 - 🔭 &nbsp;Building an **AI Agent Network** for open multi-agent collaboration @ Kiwi Group
 - 🌱 &nbsp;Currently learning **LangGraph · RL Environments · Eval Harnesses · Context Engineering**
@@ -38,31 +36,49 @@ Currently architecting an **AI agent network** for open multi-agent collaboratio
 - 📫 &nbsp;Reach me at **shivamhonrao2002@gmail.com**
 
 <br/>
----
 
 ### 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,bun,nodejs&theme=dark&perline=10" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,fastapi&theme=dark&perline=10" />
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,postgres,redis,mongodb,vercel,aws,git,figma&theme=dark&perline=10" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Multi--Agent_Systems-0d1117?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector_DB-0d1117?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Voice_AI-0d1117?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentic_Workflows-0d1117?style=flat-square&logoColor=white" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Bun](https://img.shields.io/badge/Bun-0d1117?style=flat-square&logo=bun&logoColor=fbf0df)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Redux](https://img.shields.io/badge/Redux-0d1117?style=flat-square&logo=redux&logoColor=764ABC)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=DC382D)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=F24E1E)
+
+### 🤖 AI & GenAI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-0d1117?style=flat-square&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-0d1117?style=flat-square&logo=google&logoColor=4285F4)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0d1117?style=flat-square&logoColor=white)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-0d1117?style=flat-square&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-0d1117?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0d1117?style=flat-square&logoColor=white)
+![Voice AI](https://img.shields.io/badge/Voice_AI-0d1117?style=flat-square&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-0d1117?style=flat-square&logoColor=white)
+
+<br/>
+
+### 📊 Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamH1&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact&title_color=58a6ff&text_color=8b949e" />
+   <img src="https://streak-stats.demolab.com user=ShivamH1&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+</div>
 
 <br/>
