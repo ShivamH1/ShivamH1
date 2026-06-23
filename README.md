@@ -26,8 +26,7 @@ I build AI systems that do more than wrap an API call. My work lives at the inte
 
 Currently architecting an **AI agent network** for open multi-agent collaboration at **Kiwi Group**, and pursuing M.Tech in AI & ML from **BITS Pilani**.
 
-> *cannot stop turning every problem into an agentic loop*
-
+> _cannot stop turning every problem into an agentic loop_
 
 - 🔭 &nbsp;Building an **AI Agent Network** for open multi-agent collaboration @ Kiwi Group
 - 🌱 &nbsp;Currently learning **LangGraph · RL Environments · Eval Harnesses · Context Engineering**
@@ -78,7 +77,7 @@ Currently architecting an **AI agent network** for open multi-agent collaboratio
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamH1&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact&title_color=58a6ff&text_color=8b949e" />
-   <img src="https://streak-stats.demolab.com user=ShivamH1&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+   <img src="https://streak-stats.demolab.com?user=ShivamH1&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 </div>
 
 <br/>
