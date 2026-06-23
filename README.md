@@ -66,16 +66,3 @@ Currently architecting an **AI agent network** for open multi-agent collaboratio
 </p>
 
 <br/>
-
----
-
-### 📊 Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ShivamH1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamH1&theme=github_dark&hide_border=true&bg_color=0d1117&layout=compact&title_color=58a6ff&text_color=8b949e" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ShivamH1&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-</div>
