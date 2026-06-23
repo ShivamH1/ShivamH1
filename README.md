@@ -46,97 +46,6 @@ Currently architecting an **AI agent network** for open multi-agent collaboratio
 
 ---
 
-## 🔥 selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [OpenDev](https://github.com/ShivamH1/opendev)
-Terminal-native CLI coding agent — system tool-calling, terminal state persistence, sandboxed execution, and multi-agent task orchestration built from scratch.
-
-![Bun.js](https://img.shields.io/badge/Bun.js-f9f1e1?style=flat-square&logo=bun&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Sandboxing](https://img.shields.io/badge/Sandboxing-58A6FF?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ [RecruitVoca](https://github.com/ShivamH1/recuritvoca)
-Real-time WebRTC voice interview platform — LiveKit SFU + Python agent running a full STT → LLM → TTS pipeline on our own server. Zero third-party reliance.
-
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Voice AI](https://img.shields.io/badge/Voice_AI-58A6FF?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 [OpenDevGen](https://github.com/ShivamH1/OpenDevGen)
-Autonomous coding agent SaaS — connects to GitHub, spins up dockerized dev sandboxes, executes build/test commands, streams real-time logs via WebSockets.
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
-![Autonomous Agent](https://img.shields.io/badge/Autonomous_Agent-58A6FF?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 [DeepTheoria](https://github.com/ShivamH1/DeepTheoria)
-Multi-agent research platform with human-in-the-loop URL validation and a self-correcting DAG loop — rewrites reports until critique scores exceed 6/10.
-
-![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=flat-square)
-![HITL](https://img.shields.io/badge/HITL-010101?style=flat-square)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-58A6FF?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📹 [Voca](https://github.com/ShivamH1/Voca)
-Meeting intelligence — language-specific transcription routing (EN + Hinglish via Sarvam AI), RAG-indexed summaries, searchable transcript store.
-
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-333333?style=flat-square)
-![Video AI](https://img.shields.io/badge/Video_AI-58A6FF?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [Cognita](https://github.com/ShivamH1/Cognita)
-AI learning platform with automated quiz generation, personalized learning paths, and an AI tutor grounded in course materials via RAG + VectorDB.
-
-![RAG](https://img.shields.io/badge/RAG-333333?style=flat-square)
-![VectorDB](https://img.shields.io/badge/VectorDB-010101?style=flat-square)
-![AI LMS](https://img.shields.io/badge/AI_LMS-58A6FF?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-<p align="right"><a href="https://shivamhonrao.vercel.app/">→ all projects + mini apps</a></p>
-
----
-
-## 🛠️ tech stack
-
-<div align="center">
-
-**languages & runtimes**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,bun,nodejs&theme=dark&perline=8" />
-
-**frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,figma&theme=dark&perline=8" />
-
-**backend & infra**
-
-<img src="https://skillicons.dev/icons?i=docker,postgres,redis,vercel,aws,nginx,git&theme=dark&perline=8" />
-
 **ai / ml**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
@@ -150,33 +59,6 @@ AI learning platform with automated quiz generation, personalized learning paths
 
 </div>
 
----
-
-## 📊 stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShivamH1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-  <img height="165" src="https://streak-stats.demolab.com?user=ShivamH1&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-</div>
-
----
-
-## ✍️ writing & research
-
-- **Medium** → [medium.com/@shivamhonrao2002](https://medium.com/@shivamhonrao2002) — AI engineering deep dives
-- **Research Paper** → [Anti-Theft Mobile Tracking and Monitoring System](https://www.ijraset.com/research-paper/anti-theft-mobile-tracking-and-monitoring-system) — IJRASET
-
----
-
-## 💼 experience
-
-| role | company | period |
-|------|---------|--------|
-| **Founding Software Engineer** | [Kiwi Group](https://kiwigroup.co.in) | Feb 2026 – Present |
-| **Software Engineer** *(promoted from Frontend Engineer)* | [miniOrange](https://www.miniorange.com) | Sep 2024 – Dec 2025 |
-| **SDE Intern** | [Bluestock Fintech](https://bluestock.in) | Jun 2024 – Jul 2024 |
-
----
 
 <div align="center">
 
@@ -187,3 +69,36 @@ AI learning platform with automated quiz generation, personalized learning paths
 <sub>📍 Pune, India &nbsp;&nbsp;·&nbsp;&nbsp; <a href="mailto:shivamhonrao2002@gmail.com">shivamhonrao2002@gmail.com</a> &nbsp;&nbsp;·&nbsp;&nbsp; <a href="https://shivamhonrao.dev">shivamhonrao.dev</a></sub>
 
 </div>
+
+<h1 align="center">Hi 👋, I'm Shivam</h1>
+<h3 align="center">Founding SWE @Kiwi Group · M.Tech AI/ML @BITS Pilani · 📍 Pune, India</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamh1" alt="shivamh1" /></a> </p>
+
+- 🔭 I’m currently working on [OpenDev](https://github.com/ShivamH1/opendev)
+
+- 👨‍💻 All of my projects are available at [https://shivamhonrao.vercel.app/](https://shivamhonrao.vercel.app/)
+
+- 📝 I regularly write articles on [https://medium.com/@shivamhonrao2002](https://medium.com/@shivamhonrao2002)
+
+- 📫 How to reach me **shivamhonrao2002@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/10tgm9fjbbbvlqAKs8OGOnB73831Cp9tk/view?usp=drive_link](https://drive.google.com/file/d/10tgm9fjbbbvlqAKs8OGOnB73831Cp9tk/view?usp=drive_link)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shivam_honrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivam_honrao" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam-honrao/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-honrao/" height="30" width="40" /></a>
+<a href="https://kaggle.com/shivamhonrao1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shivamhonrao1" height="30" width="40" /></a>
+<a href="https://medium.com/@shivamhonrao2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shivamhonrao2002" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamh1&show_icons=true&locale=en&layout=compact" alt="shivamh1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamh1&show_icons=true&locale=en" alt="shivamh1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamh1&" alt="shivamh1" /></p>
+
