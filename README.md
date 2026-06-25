@@ -13,7 +13,7 @@
   &nbsp;
   <a href="https://medium.com/@shivamhonrao2002" target="_blank"><img src="https://img.shields.io/badge/Medium-000?style=flat-square&logo=medium&logoColor=white" /></a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/10tgm9fjbbbvlqAKs8OGOnB73831Cp9tk/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" /></a>
+  <a href="[https://drive.google.com/file/d/10tgm9fjbbbvlqAKs8OGOnB73831Cp9tk/view?usp=drive_link](https://drive.google.com/file/d/1v6GR-ac3v64pcmIHFxe8F2sqhYv88XnI/view?usp=drive_link)" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledrive&logoColor=white" /></a>
 </p>
 
 </div>
